@@ -1,22 +1,37 @@
-[{
-  "id":1,
-  "name":"Nguyễn Quốc Trọng",
-  "address":"Nhà tao ở đâu kệ tao =))",
-  "phone":"000000000",
-  "email":"nguyenqtrong203@gmail.com"
-},
-{
-  "id":2,
-  "name":"Lê Nguyễn Quế Trâm",
-  "address":"Nhà bồ tao ở đâu đố biết",
-  "phone":"0000000000",
-  "email":"lnwuetram143@gmail.com"
-},
-{
-  "id":3,
-  "name":"Nguyễn Lê Quốc Hoàng",
-  "address":"Chắc là ở nhà t :v",
-  "phone":"0000000000",
-  "email":"chưa sinh chưa tạo"
-}
-  ]
+[
+  {
+    "id": 1,
+    "name": "Phim ma nhà tao",
+    "avatar": "anhma.jpg",
+    "timefilm": "120 phút",
+    "category": "Phim ma"
+  },
+  {
+    "id": 2,
+    "name": "Hài kịch nhà tao",
+    "avatar": "anhhai.jpg",
+    "timefilm": "150 phút",
+    "category": "Phim hài"
+  },
+  {
+    "id": 3,
+    "name": "Con ma nhà họ Hứa",
+    "avatar": "conma.jpg",
+    "timefilm": "180 phút",
+    "category": "Phim ma"
+  },
+  {
+    "id": 4,
+    "name": "I love you",
+    "avatar": "iloveyou.jpg",
+    "timefilm": "110 phút",
+    "category": "Phim tâm lý-tình cảm"
+  },
+  {
+    "id": 5,
+    "name": "So much",
+    "avatar": "somuch.jpg",
+    "timefilm": "115 phút",
+    "category": "Phim hài"
+  }
+]
