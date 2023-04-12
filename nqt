@@ -1,14 +1,14 @@
 [
   {
     "id": "1",
-    "name": "Phim ma nhà tao",
+    "name": "Insidious",
     "avatar": "anhma.jpg",
     "timefilm": "120 phút",
     "category": "Phim ma"
   },
   {
     "id": "2",
-    "name": "Hài kịch nhà tao",
+    "name": "Qua Ô Cửa Sổ",
     "avatar": "anhhai.jpg",
     "timefilm": "150 phút",
     "category": "Phim hài"
@@ -22,16 +22,16 @@
   },
   {
     "id": "4",
-    "name": "I love you",
+    "name": "Love & Roise",
     "avatar": "iloveyou.jpg",
     "timefilm": "110 phút",
     "category": "Phim tâm lý-tình cảm"
   },
   {
     "id": "5",
-    "name": "So much",
+    "name": "Bao Giờ Có Yêu Nhau",
     "avatar": "somuch.jpg",
     "timefilm": "115 phút",
-    "category": "Phim hài"
+    "category": "Phim tâm lý-tình cảm"
   }
 ]
