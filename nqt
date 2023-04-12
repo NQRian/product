@@ -1,34 +1,34 @@
 [
   {
-    "id": 1,
+    "id": "1",
     "name": "Phim ma nhà tao",
     "avatar": "anhma.jpg",
     "timefilm": "120 phút",
     "category": "Phim ma"
   },
   {
-    "id": 2,
+    "id": "2",
     "name": "Hài kịch nhà tao",
     "avatar": "anhhai.jpg",
     "timefilm": "150 phút",
     "category": "Phim hài"
   },
   {
-    "id": 3,
+    "id": "3",
     "name": "Con ma nhà họ Hứa",
     "avatar": "conma.jpg",
     "timefilm": "180 phút",
     "category": "Phim ma"
   },
   {
-    "id": 4,
+    "id": "4",
     "name": "I love you",
     "avatar": "iloveyou.jpg",
     "timefilm": "110 phút",
     "category": "Phim tâm lý-tình cảm"
   },
   {
-    "id": 5,
+    "id": "5",
     "name": "So much",
     "avatar": "somuch.jpg",
     "timefilm": "115 phút",
